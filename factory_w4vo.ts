@@ -1,0 +1,1 @@
+const service_w4vo = <T>(args: T): T => { return args; };
